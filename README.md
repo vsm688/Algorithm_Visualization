@@ -1,5 +1,5 @@
 # Algorithm_Visualization
-This was my first project and also me learning how to use github! I also learnt how to implement multithreading which prevented alot of crashing/freezing in my program! 
+This was my first project and also me learning how to use github! It is a program which aids in visulization of 3 simple sorting algorithms that I learnt in my first year of Computer Science (bubble sort, selection sort, insertion sort). I also learnt how to implement multithreading which prevented alot of crashing/freezing in my program! 
 
 Skills/Concecpts used:
 - Object oriented programming with Python
