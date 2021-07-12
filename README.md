@@ -8,6 +8,9 @@ Skills/Concecpts used:
 - Multithreading --> Speed up the program by allocating resources/new threads when we need to change the gui
 - Basic Geometry --> To draw the bars evenly across the screen, as well as to move them.
 
+Current bugs/problems:
+- When closing the program the thread appears to continue to run. As I continue to learn more about threading I will eventually fix this problem.
+
 Next steps:
 - Add MergeSort and Quicksort Algorithms
 - Add features which can stop, slow, speedup or pause the program
